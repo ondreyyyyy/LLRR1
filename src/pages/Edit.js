@@ -45,7 +45,7 @@ const Edit = () => {
                     setLoading(false);
                 });
         } else {
-            axios.get('${process.env.REACT_APP_API_URL}/objects')
+            axios.get(`${process.env.REACT_APP_API_URL}/objects`)
                 .then(response => {
                     setObjects(response.data);
                     setLoading(false);
