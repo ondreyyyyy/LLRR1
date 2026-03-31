@@ -1,0 +1,72 @@
+{
+  "objects": [
+    {
+      "id": "3",
+      "name": "Не объект 1",
+      "address": "г. Волгоград, пр. Гагарина, 3",
+      "type": "Школа",
+      "guardCount": 43,
+      "status": "Под охраной",
+      "lastInspection": "11.02.2026",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "f2b7",
+      "name": "test 1",
+      "address": "г. Москва пл. Маркса 99",
+      "type": "ЖК",
+      "guardCount": 4,
+      "status": "Под охраной",
+      "lastInspection": "12.12.2025",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "0d69",
+      "name": "test 911",
+      "address": "г. Омск, ул. Мира д. 92",
+      "type": "Стройка",
+      "guardCount": 4,
+      "status": "Под охраной",
+      "lastInspection": "11.10.2022",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "afe0",
+      "name": "Объект 13",
+      "address": "г. Новосибирск, ул. Блюхера 32/1",
+      "type": "Дом",
+      "guardCount": 1,
+      "status": "Под охраной",
+      "lastInspection": "11.10.2024",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "04fb",
+      "name": "3ук32кйк",
+      "address": "3кй32кй32ка",
+      "type": "3кай3ка3й2ка",
+      "guardCount": 3,
+      "status": "Под охраной",
+      "lastInspection": "11.10.2006",
+      "hasAlarmSystem": true
+    },
+    {
+      "id": "e40b",
+      "name": "swfvwefw",
+      "address": "wfvwef",
+      "type": "wefewf",
+      "guardCount": 3,
+      "status": "Под охраной",
+      "lastInspection": "11.10.2006",
+      "hasAlarmSystem": true
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "neverov.andrey11102006@gmail.com",
+      "password": "admin123"
+    }
+  ]
+}
